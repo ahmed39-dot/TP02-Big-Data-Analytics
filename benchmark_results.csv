@@ -1,0 +1,4 @@
+Method,Status,Rows,Execution Time (s),RAM Measurement (GB),RAM Description
+Traditional Pandas,SUCCESS,55423856,165.36,13.11,After reading
+Pandas Chunking,SUCCESS,55423856,68.93,2.06,Maximum sampled RAM
+Dask,SUCCESS,55423856,33.35,,Peak RAM not measured
